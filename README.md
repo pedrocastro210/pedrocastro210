@@ -19,11 +19,11 @@
   ##
 
 <div> 
-  <a href="https://www.linkedin.com/in/pedrocastro210" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-7A1FA2?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
+  <a href="https://portfolio-pedrocastro.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-7A1FA2?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/pedrocastro210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "phfdecastro@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "phfdecastro@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/pedro_castro210" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://wa.me/5524974029166"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-    <a href = "https://vercel.com/dashboard"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
+  <a href = "https://vercel.com/dashboard"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
 </div>
 
