@@ -1,0 +1,52 @@
+name: Copilot Local Pro
+version: 1.0.0
+schema: v1
+
+models:
+  # ⚡ Autocomplete
+  - name: Fast Autocomplete
+    provider: ollama
+    model: deepseek-coder:1.3b
+    apiBase: http://localhost:11434
+    roles:
+      - autocomplete
+
+  # 🧠 Chat principal
+  - name: Smart Chat
+    provider: ollama
+    model: qwen14b-q4
+    apiBase: http://localhost:11434
+    roles:
+      - chat
+
+  # 🛠️ Editor/refatoração
+  - name: Safe Editor
+    provider: ollama
+    model: deepseek67b-opt
+    apiBase: http://localhost:11434
+    roles:
+      - edit
+
+  # 🧠 Arquitetura / explicações profundas
+  - name: Architect
+    provider: ollama
+    model: llama3.1:8b
+    apiBase: http://localhost:11434
+    roles:
+      - chat
+
+  # 🔍 Embeddings (RAG)
+  - name: Embeddings
+    provider: ollama
+    model: nomic-embed-text
+    apiBase: http://localhost:11434
+    roles:
+      - embed
+
+context:
+  - provider: codebase
+    params:
+      nRetrieve: 25
+  - provider: diff
+  - provider: terminal
+  - provider: problems
