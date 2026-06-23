@@ -28,15 +28,17 @@ galaxy_arms:
   - name: "Frontend"
     color: "dendrite_violet"
     items:
+      - "JavaScript"
       - "TypeScript"
       - "React"
-      - "Redux"
+      - "Angular"
   - name: "Backend"
     color: "synapse_cyan"
     items:
       - "Node.js"
       - "Python"
       - "PostgreSQL"
+      - "Express"
   - name: "Infraestrutura & Desenvolvimento"
     color: "axon_amber"
     items:
